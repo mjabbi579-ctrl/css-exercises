@@ -1,1 +1,33 @@
 /* Add CSS Styling */
+.odd { 
+         background-color: #ffb6c1;
+         font-family: verdana;
+       }
+
+#even2 {
+        color: #0000ff;
+        font-size: 36px;
+        }
+
+ .odd3 { 
+        background-color: #ffb6c1;
+        font-family:verdana;
+        }
+ .adjust-font-size
+         {
+            font-size: 24px;
+         }
+
+ #even4 {
+          background-color: #90ee90;
+          font-weight: bold;
+          }
+ .adjust-font-size
+          {
+           font-size: 30px;
+          }
+          
+ .odd { 
+         background-color: #ffb6c1;
+         font-family: Verdana;
+        }
